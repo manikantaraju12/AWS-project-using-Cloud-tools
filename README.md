@@ -1,5 +1,4 @@
-AWS-project-using-Cloud-tools
-
+AWS-project-using-Cloud-tools:
 
 Deployment of Web Application using EC2, S3, VPC, IAM, EC2 Instance Connect without key pair and launching portfolio on an instance
 
